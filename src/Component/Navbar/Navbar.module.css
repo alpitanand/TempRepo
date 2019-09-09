@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #cce2ff;
+  min-height: 6vh;
+  align-items: center;
+  font-size: 15px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  width: 33%;
+  margin-left: auto;
+}
+
+ul li {
+  margin: 0 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 28px;
+}
+
+.fix {
+  justify-content: center;
+  width: 30%;
+}
